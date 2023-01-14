@@ -3,7 +3,7 @@
     > A collection of mini python projects to demonstrate my programming skills
 
 ## Projects
- -[Rock, Paper, Scissors](#https://github.com/aancrum/mini-python-projects/blob/main/rock-paper-scissors.py)
+ -[Rock, Paper, Scissors](#rock-paper-scissors)(#https://github.com/aancrum/mini-python-projects/blob/main/rock-paper-scissors.py)
  
  -[Which Hogwarts house are you?](#which-house-are-you)
  
