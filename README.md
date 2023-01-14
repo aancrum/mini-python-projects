@@ -7,7 +7,7 @@
  -[Which Hogwarts house are you?](#which-house-are-you)
  
 ## Feedback
-If you have any feedback or ideas to improve this project, feel free to contact me via
+If you have any feedback to improve these projects, feel free to contact me via Linkedin
 
 <a href="https://www.linkedin.com/in/ashleyancrum/">
   <img align="left" alt="Ashley's Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/>
