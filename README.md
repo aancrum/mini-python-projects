@@ -2,8 +2,8 @@
     > A collection of mini python projects to demonstrate my programming skills
 
 ## Projects
- -[Rock, Paper, Scissors](#-rock-paper-scissors)
- -[Which Hogwarts house are you?](#which-house-are-you)
+  -[Rock, Paper, Scissors](#-rock-paper-scissors)
+  -[Which Hogwarts house are you?](#which-house-are-you)
  
 ## Feedback
 If you have any feedback or ideas to improve this project, feel free to contact me via
