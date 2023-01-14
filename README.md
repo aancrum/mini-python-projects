@@ -3,6 +3,7 @@
 
 ## Projects
  -[Rock, Paper, Scissors](#-rock-paper-scissors)
+ 
  -[Which Hogwarts house are you?](#which-house-are-you)
  
 ## Feedback
