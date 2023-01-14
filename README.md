@@ -1,4 +1,5 @@
-# Python Projects <img src="https://www.crio.do/blog/content/images/2021/03/Python-projects.png" align=center width=50% height=50%>
+# Python Projects 
+<img src="https://www.crio.do/blog/content/images/2021/03/Python-projects.png" align=center width=50% height=50%>
     > A collection of mini python projects to demonstrate my programming skills
 
 ## Projects
