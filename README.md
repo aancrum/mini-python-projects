@@ -10,6 +10,6 @@
 ## Feedback
 If you have any feedback or ideas to improve this project, feel free to contact me via
 
-<a href="www.linkedin.com/in/ashleyancrum">
+<a href="www.linkedin.com/in/ashleyancrum/">
   <img align="left" alt="Ashley's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
